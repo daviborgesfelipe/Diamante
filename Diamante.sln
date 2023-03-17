@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamante.ConsoleApp", "Diamante.ConsoleApp\Diamante.ConsoleApp.csproj", "{73D85EA8-7D3C-494B-8EC9-E0C235E586F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D85EA8-7D3C-494B-8EC9-E0C235E586F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D85EA8-7D3C-494B-8EC9-E0C235E586F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D85EA8-7D3C-494B-8EC9-E0C235E586F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D85EA8-7D3C-494B-8EC9-E0C235E586F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B2F847-8C5C-45AE-B364-6479E60D15C6}
+	EndGlobalSection
+EndGlobal
